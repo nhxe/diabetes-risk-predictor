@@ -49,8 +49,8 @@ Bash
 cd frontend
 npm install
 npm start
-📊 Model Performance
+ Model Performance
 The model utilizes a Random Forest algorithm optimized for Recall, ensuring that potential high-risk cases are identified even in imbalanced data environments.
 
-⚖️ Disclaimer
+ Disclaimer
 This application is for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or other qualified health provider.
